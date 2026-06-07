@@ -1,8 +1,7 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Create a Movie Suggestion Bot Without Copilot Kit
+- This tutorial will guide you through setting up a movie suggestion bot that uses natural language to detect your mood and genre preferences to suggest movies accordingly.
 
-## Getting Started
-
-First, run the development server:
+## Setup
 
 ```bash
 bun create next-app@latest movie-suggestion-bot

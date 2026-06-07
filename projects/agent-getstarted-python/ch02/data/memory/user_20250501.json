@@ -1,0 +1,34 @@
+[
+  {
+    "role": "user",
+    "content": "我想订一张5月5日去上海的机票"
+  },
+  {
+    "role": "assistant",
+    "content": "SessionRecoveryAgent收到：我想订一张5月5日去上海的机票"
+  },
+  {
+    "role": "user",
+    "content": "时间大约是早上8点左右"
+  },
+  {
+    "role": "assistant",
+    "content": "SessionRecoveryAgent收到：时间大约是早上8点左右"
+  },
+  {
+    "role": "user",
+    "content": "帮我记录这个需求"
+  },
+  {
+    "role": "assistant",
+    "content": "记录完成：帮我记录这个需求"
+  },
+  {
+    "role": "user",
+    "content": "现在继续，出发地是北京"
+  },
+  {
+    "role": "assistant",
+    "content": "SessionRecoveryAgent收到：现在继续，出发地是北京"
+  }
+]
