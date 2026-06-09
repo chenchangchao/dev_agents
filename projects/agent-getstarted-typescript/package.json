@@ -1,0 +1,31 @@
+{
+  "name": "agent-getstarted-typescript",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
+  "scripts": {
+    "check": "bunx tsc --noEmit",
+    "test": "bun test",
+    "demo:llm": "bun run apps/01-llm-basics/src/index.ts",
+    "demo:tools": "bun run apps/02-agent-tools/src/index.ts",
+    "demo:rag": "bun run apps/03-rag-memory-agent/src/index.ts",
+    "dev:server": "bun run apps/04-agent-server/src/index.ts",
+    "demo:multi": "bun run apps/05-multi-agent/src/index.ts",
+    "demo:protocols": "bun run apps/06-protocol-agents/src/index.ts",
+    "demo:bus": "bun run apps/07-redis-agents/src/index.ts",
+    "demo:evals": "bun run apps/08-agent-evals/src/index.ts",
+    "demo:integrated": "bun run apps/09-integrated-demo/src/index.ts",
+    "dev:fastify": "bun run apps/09-integrated-demo/src/index.ts"
+  },
+  "dependencies": {
+    "fastify": "^5.4.0",
+    "ioredis": "^5.8.2"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "typescript": "^5.8.3"
+  }
+}

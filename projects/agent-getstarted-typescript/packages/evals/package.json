@@ -1,0 +1,8 @@
+{
+  "name": "@agent/evals",
+  "type": "module",
+  "private": true,
+  "exports": {
+    ".": "./src/index.ts"
+  }
+}

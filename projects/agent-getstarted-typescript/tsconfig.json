@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "lib": ["ES2022"],
+    "types": ["bun"],
+    "strict": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true, 
+    "noEmit": true,
+    "paths": {
+      "@agent/core": ["./packages/core/src/index.ts"],
+      "@agent/tools": ["./packages/tools/src/index.ts"],
+      "@agent/rag": ["./packages/rag/src/index.ts"],
+      "@agent/memory": ["./packages/memory/src/index.ts"],
+      "@agent/protocols": ["./packages/protocols/src/index.ts"],
+      "@agent/server": ["./packages/server/src/index.ts"],
+      "@agent/evals": ["./packages/evals/src/index.ts"]
+    }
+  },
+  "include": ["packages/**/*.ts", "apps/**/*.ts", "tests/**/*.ts"],
+  "exclude": ["node_modules", "dist"]
+}

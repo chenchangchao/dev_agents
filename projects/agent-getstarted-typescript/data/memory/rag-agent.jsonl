@@ -1,0 +1,16 @@
+{"role":"user","content":"RAG是什么？","ts":1780830013642}
+{"role":"assistant","content":"[fallback:rag-agent] 当前模型后端不可用，已使用TypeScript教学回退结果。输入摘要：“user: 请基于参考资料回答问题。资料不足时说明需要补充信息。 参考资料： Agent 是一种能够感知上下文、调用工具并完成目标的智能程序。 RAG 是 Retrieval-Augmented Generation 的缩写，核心思想是在生成前先检索相关资料。 短期记忆通常保存在当前会话中，长期记忆可以写入文件、数据库或向量库。 Ollama 适合在 Mac”。建议继续验证Agent流程、工具调用、RAG上下文和服务接口。原始异常：Error","ts":1780830013649}
+{"role":"user","content":"Agent 的记忆可以放在哪里？","ts":1780830013649}
+{"role":"assistant","content":"[fallback:rag-agent] 当前模型后端不可用，已使用TypeScript教学回退结果。输入摘要：“user: 请基于参考资料回答问题。资料不足时说明需要补充信息。 参考资料： Agent 是一种能够感知上下文、调用工具并完成目标的智能程序。 RAG 是 Retrieval-Augmented Generation 的缩写，核心思想是在生成前先检索相关资料。 短期记忆通常保存在当前会话中，长期记忆可以写入文件、数据库或向量库。 Ollama 适合在 Mac”。建议继续验证Agent流程、工具调用、RAG上下文和服务接口。原始异常：Error","ts":1780830013650}
+{"role":"user","content":"RAG是什么？","ts":1780830674461}
+{"role":"assistant","content":"[fallback:rag-agent] 当前模型后端不可用，已使用TypeScript教学回退结果。输入摘要：“user: 请基于参考资料回答问题。资料不足时说明需要补充信息。 参考资料： Agent 是一种能够感知上下文、调用工具并完成目标的智能程序。 RAG 是 Retrieval-Augmented Generation 的缩写，核心思想是在生成前先检索相关资料。 短期记忆通常保存在当前会话中，长期记忆可以写入文件、数据库或向量库。 Ollama 适合在 Mac”。建议继续验证Agent流程、工具调用、RAG上下文和服务接口。原始异常：Error","ts":1780830674469}
+{"role":"user","content":"Agent 的记忆可以放在哪里？","ts":1780830674469}
+{"role":"assistant","content":"[fallback:rag-agent] 当前模型后端不可用，已使用TypeScript教学回退结果。输入摘要：“user: 请基于参考资料回答问题。资料不足时说明需要补充信息。 参考资料： Agent 是一种能够感知上下文、调用工具并完成目标的智能程序。 RAG 是 Retrieval-Augmented Generation 的缩写，核心思想是在生成前先检索相关资料。 短期记忆通常保存在当前会话中，长期记忆可以写入文件、数据库或向量库。 Ollama 适合在 Mac”。建议继续验证Agent流程、工具调用、RAG上下文和服务接口。原始异常：Error","ts":1780830674469}
+{"role":"user","content":"RAG是什么？","ts":1780831822365}
+{"role":"assistant","content":"根据参考资料，**RAG 是 Retrieval-Augmented Generation 的缩写**。\n\n其核心思想是在**生成前先检索相关资料**。","ts":1780831823340}
+{"role":"user","content":"Agent 的记忆可以放在哪里？","ts":1780831823341}
+{"role":"assistant","content":"根据参考资料，Agent 的记忆可以保存在不同的地方：\n\n* **短期记忆：** 通常保存在**当前会话中**。\n* **长期记忆：** 可以写入**文件、数据库或向量库**。","ts":1780831824501}
+{"role":"user","content":"RAG是什么？","ts":1780993560676}
+{"role":"assistant","content":"根据提供的参考资料，**RAG 是 Retrieval-Augmented Generation 的缩写**。\n\n其核心思想是在**生成前先检索相关资料**。","ts":1780993561671}
+{"role":"user","content":"Agent 的记忆可以放在哪里？","ts":1780993561671}
+{"role":"assistant","content":"根据提供的参考资料，关于 Agent 的记忆的存储位置信息如下：\n\n* **短期记忆**通常保存在**当前会话中**。\n* **长期记忆**可以写入**文件、数据库或向量库**。\n\n---\n**补充说明：** 参考资料没有明确指出 Agent 记忆的具体实现细节，仅提供了短期和长期记忆的存储位置类型。","ts":1780993563486}

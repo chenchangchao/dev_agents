@@ -1,0 +1,5 @@
+{
+  "name": "@agent-app/07-redis-agents",
+  "type": "module",
+  "private": true
+}

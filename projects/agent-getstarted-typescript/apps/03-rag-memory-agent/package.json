@@ -1,0 +1,5 @@
+{
+  "name": "@agent-app/03-rag-memory-agent",
+  "type": "module",
+  "private": true
+}

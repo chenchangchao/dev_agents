@@ -1,0 +1,5 @@
+{
+  "name": "@agent-app/04-agent-server",
+  "type": "module",
+  "private": true
+}
